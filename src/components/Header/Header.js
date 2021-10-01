@@ -12,7 +12,7 @@ const Header = () => {
         <a href="/inventory">Manage Inventory</a>
       </nav>
       <div className="bg-secondary py-2">
-        <input className="input-group form-control w-50 mx-auto" type="text" placeholder="Search your Product..." />
+        <input className="input-group form-control w-50 mx-auto d-inline-block" type="text" placeholder="Search your Product..." />
       </div>
     </div>
   );
